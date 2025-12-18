@@ -136,6 +136,7 @@ This avoids having to run the container as root or modify the image.
    - Writes nodes and relationships into Neo4j.
 
 Once the pipeline finishes successfully, you can inspect the graph in **Neo4j Browser**.
+![Alt text](https://drive.google.com/file/d/1G0D7F6VT9co9V-HHRM3JeKI4shtNLAU6/view?usp=sharing)
 
 ---
 
